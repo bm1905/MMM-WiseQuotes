@@ -1,6 +1,6 @@
 # MagicMirror² Wise Quotes module
 This is a module for `MagicMirror²`.
-NOTE: It is a beta mode (test mode). Works still under progress:
+NOTE: It is a beta mode (test mode). Works still under progress are:
 1. API setup that returns random quote from the server.
 2. Styling of the module and text. 
 
